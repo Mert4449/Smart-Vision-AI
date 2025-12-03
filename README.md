@@ -47,5 +47,5 @@ Clone the repository and step into the future of computer vision.
 
 ### 1. Clone the Repo
 ```bash
-git clone [https://github.com/YOUR_USERNAME/smart-vision-assistant.git](https://github.com/YOUR_USERNAME/smart-vision-assistant.git)
+git clone [https://github.com/Mert4449/smart-vision-assistant.git](https://github.com/Mert4449/smart-vision-assistant.git)
 cd smart-vision-assistant
