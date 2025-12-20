@@ -13,8 +13,6 @@
 **Vision AI** is not just a camera script; it's an intelligent observer.  
 Powered by **Google Gemini 2.0**, it perceives the world in real-time, understands context, and interacts via natural voice.
 
-[Report Bug](https://github.com/YOUR_USERNAME/smart-vision-assistant/issues) · [Request Feature](https://github.com/YOUR_USERNAME/smart-vision-assistant/issues)
-
 </div>
 
 ---
