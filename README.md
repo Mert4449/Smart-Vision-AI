@@ -36,14 +36,3 @@ Powered by **Google Gemini 2.0**, it perceives the world in real-time, understan
 | **Eyes (Vision)** | `OpenCV` | Image processing & face detection |
 | **Ears (Input)** | `SpeechRecognition` | Google Speech-to-Text API |
 | **Voice (Output)** | `gTTS` + `Pygame` | Natural sounding Text-to-Speech |
-
----
-
-## 🚀 Installation & Setup
-
-Clone the repository and step into the future of computer vision.
-
-### 1. Clone the Repo
-```bash
-git clone [https://github.com/Mert4449/smart-vision-assistant.git](https://github.com/Mert4449/smart-vision-assistant.git)
-cd smart-vision-assistant
