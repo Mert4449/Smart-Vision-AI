@@ -3,12 +3,7 @@
 # 👁️ VISION AI ASSISTANT
 ### Next-Gen Real-Time Surveillance & Analysis System
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/AI-Gemini%202.0%20Flash-orange?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Vision-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-<br />
 
 **Vision AI** is not just a camera script; it's an intelligent observer.  
 Powered by **Google Gemini 2.0**, it perceives the world in real-time, understands context, and interacts via natural voice.
